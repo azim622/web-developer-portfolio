@@ -129,3 +129,15 @@ main{
 #what-i-do-description{
     padding: 30px 150px;
 }
+/* skills releted styles */
+.skills-container{
+    display: flex;
+
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
+
+.skill-description{
+}
